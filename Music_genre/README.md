@@ -3,6 +3,7 @@
 
 **Предоставленные данные:**
 Датасет, в котором собраны некоторые характеристики музыкальных произведений и их жанры.
+
 Датасет по ссылке: [https://disk.yandex.ru/d/BBEphK0EHSJ5Jw](https://www.kaggle.com/competitions/music-genre-prediction-m1-23ds/data)
 
 **Ход работы:**
